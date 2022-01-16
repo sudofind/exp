@@ -1,0 +1,27 @@
+
+projects/trailer_creation/.ipynb_checkpoints/notebook_to_help-checkpoint.ipynb
+*.ipynb
+*.pyc
+*.avi
+*.npz
+projects/trailer_creation/cashe/formated_boundaries/lalaland.txt
+projects/trailer_creation/cashe/formated_boundaries/lol.txt
+projects/trailer_creation/cashe/formated_boundaries/oz_the_great.txt
+projects/trailer_creation/cashe/formated_boundaries/oz_the_great_T0.txt
+projects/trailer_creation/cashe/formated_boundaries/prometheus_T0.txt
+projects/trailer_creation/cashe/formated_boundaries/silent_hill_2_T0.txt
+projects/trailer_creation/cashe/unformated_boundaries/oz_the_great.txt
+projects/trailer_creation/emma.jpeg
+projects/trailer_creation/res/boundaries/lalaland_from_prometheus_T0_0_0_1000_0_0.txt
+projects/trailer_creation/res/boundaries/lalaland_from_prometheus_T0_0_1000_0_0_0.txt
+projects/trailer_creation/res/boundaries/lalaland_from_prometheus_T0_1000_0_0_0_0.txt
+projects/trailer_creation/res/boundaries/oz_the_great_from_prometheus_T0_0_0_1000_0_0.txt
+projects/trailer_creation/res/boundaries/oz_the_great_from_prometheus_T0_0_1000_0_0_0.txt
+projects/trailer_creation/res/boundaries/oz_the_great_from_prometheus_T0_1000_0_0_0_0.txt
+projects/trailer_creation/res/boundaries/oz_the_great_from_prometheus_T0_1000_0_0_0_1.txt
+projects/trailer_creation/res/boundaries/oz_the_great_from_prometheus_T0_1000_0_0_0_2.txt
+projects/trailer_creation/res/boundaries/oz_the_great_from_prometheus_T0_1000_0_0_0_3.txt
+*.txt
+projects/trailer_creation/res/gifs.zip
+projects/trailer_creation/res/trailers/parse_eval.py
+projects/trailer_creation/res/trailers/Unsaved Document 1
